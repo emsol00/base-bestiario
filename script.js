@@ -7,7 +7,7 @@ const listaCabezas = [
 const listaTroncos = [
  "../base-bestiario/assets/img/tronco1.jpg",
   "../base-bestiario/assets/img/tronco2.jpg",
-  "../base-bestiario/ssets/img/tronco3.jpg",
+  "../base-bestiario/assets/img/tronco3.jpg",
 ];
 const listaPatas = [
   "../base-bestiario/assets/img/patas1.jpg",
